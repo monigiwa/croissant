@@ -1,15 +1,13 @@
 body {
   display: block;
   margin: 8px;
-  background-color: #f8e8a6;
+  background-color: #ecf6c5;
 }
 h1,
-h2,
 p {
   text-align: center;
 }
 h1,
-h2,
 a {
   color: green;
 }
