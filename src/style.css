@@ -1,0 +1,30 @@
+body {
+  display: block;
+  margin: 8px;
+  background-color: #f8e8a6;
+}
+h1,
+h2,
+p {
+  text-align: center;
+}
+h1,
+h2,
+a {
+  color: green;
+}
+
+img {
+  display: block;
+  max-width: 80%;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+
+.navigation-links {
+  display: flex;
+  justify-content: center;
+}
+.navigation-links a {
+  margin-right: 25px;
+}
